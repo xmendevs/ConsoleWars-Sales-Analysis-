@@ -12,7 +12,7 @@
 - [Data Transformation](#Data-Transformation)
 - [Visualization and Analysis](#Visualization-and-Analysis)
 - [Conclusion](#Conclusion)
-
+- [Recommendations](#Recommendations)
 
 ## Project Overview
 This project involved the creation of a comprehensive and interactive sales dashboard using Power BI to analyze market performance and consumer behavior within the gaming console industry. The primary objective was to transform raw sales data into actionable business intelligence, providing a clear visual overview of key performance indicators (KPIs), market trends, and competitive dynamics.
