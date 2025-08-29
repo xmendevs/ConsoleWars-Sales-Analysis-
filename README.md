@@ -1,6 +1,18 @@
 #  THE ConsoleWars (Sales Analysis)
 
-<img width="2048" height="2048" alt="Gemini_Generated_Image_vacvb6vacvb6vacv" src="https://github.com/user-attachments/assets/39bda926-aceb-4312-a6b6-6cb46235a32d" />
+<img width="2048" height="2048" alt="Gemini_Generated_Image_vacvb6vacvb6vacv" src="https://github.com/user-attachments/assets/39bda926-aceb-4312-a6b6-6cb46235a32d" /> 
+
+### Table of Contents
+- [Project Overview](#Project-Overview)
+- [Problem Statement](Problem-Statement)
+- [Tools & Technologies](Tools-&-Technologies)
+- [Skills and Concept Demonostrated ](Skills-and-Concept-Demonostrated)
+- [Data Modelling](Data-Modelling)
+- [Data Sourcing](Data-Sourcing)
+- [Data Transformation](Data-Transformation)
+- [Visualization and Analysis](Visualization-and-Analysis)
+- 
+
 
 ## Project Overview
 This project involved the creation of a comprehensive and interactive sales dashboard using Power BI to analyze market performance and consumer behavior within the gaming console industry. The primary objective was to transform raw sales data into actionable business intelligence, providing a clear visual overview of key performance indicators (KPIs), market trends, and competitive dynamics.
@@ -21,10 +33,10 @@ A forward-thinking enterprise needs to understand its position in the highly com
 
 ## Tools & Technologies
 
-* Data Processing: Excel or for data cleaning and transformation
+* Data Processing: Excel/ Power Query for data cleaning and transformation
 * Data Visualization: Power BI (Interactive Dashboard)
 
-## Skills  and Concept Demonostrated 
+## Skills and Concept Demonostrated 
 The following Power Bi was incoporated:
 * Data Cleaning
 * Filtering & Sorting
@@ -33,6 +45,7 @@ The following Power Bi was incoporated:
 * Measures
 * Slicers
 * Wire Framing
+  
 ## Data Modelling
 
 <img width="512" height="251" alt="image" src="https://github.com/user-attachments/assets/237686bc-138f-4654-b6cd-e1720abea5e8" />
